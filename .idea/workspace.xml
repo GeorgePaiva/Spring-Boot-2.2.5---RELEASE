@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ca163e20-34e7-43d4-b775-2d4d60b54159" name="Default Changelist" comment="" />
+    <list default="true" id="ca163e20-34e7-43d4-b775-2d4d60b54159" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/devdojo/awesome/util/DateUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/devdojo/awesome/endpoint/StudentEndpoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/devdojo/awesome/endpoint/StudentEndpoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/devdojo/awesome/start/ApplicationStart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/devdojo/awesome/ApplicationStart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/devdojo/awesome/endpoint/StudentEndpoint.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/devdojo/awesome/endpoint/StudentEndpoint.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/devdojo/awesome/start/ApplicationStart.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +22,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -22,6 +33,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1ZAdbm6k6DFlZ5MIjjmD305DVVR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -33,6 +45,7 @@
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -48,11 +61,11 @@
       <module name="devdojo-springboot" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.devdojo.awesome.start.*" />
+          <option name="PATTERN" value="br.com.devdojo.awesome.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="br.com.devdojo.awesome.start.ApplicationStart" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="br.com.devdojo.awesome.ApplicationStart" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -73,7 +86,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584285905577</updated>
-      <workItem from="1584285907044" duration="2487000" />
+      <workItem from="1584285907044" duration="4242000" />
     </task>
     <servers />
   </component>
@@ -93,38 +106,38 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="313" y="53" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1366.728@0.0.1366.728" timestamp="1584285934124" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1584288253488">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1584289604464">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584288253488" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1584288253488">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584289604464" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1584289604464">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584288253488" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1584288253486">
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584289604464" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1584289604464">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584288253486" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1584288253488">
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584289604464" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1584289604464">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584288253488" />
-    <state width="1323" height="179" key="GridCell.Tab.1.bottom" timestamp="1584288253491">
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584289604464" />
+    <state width="1323" height="179" key="GridCell.Tab.1.bottom" timestamp="1584289604464">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584288253491" />
-    <state width="1323" height="179" key="GridCell.Tab.1.center" timestamp="1584288253491">
+    <state width="1323" height="179" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584289604464" />
+    <state width="1323" height="179" key="GridCell.Tab.1.center" timestamp="1584289604464">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1584288253491" />
-    <state width="1323" height="179" key="GridCell.Tab.1.left" timestamp="1584288253491">
+    <state width="1323" height="179" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1584289604464" />
+    <state width="1323" height="179" key="GridCell.Tab.1.left" timestamp="1584289604464">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1584288253491" />
-    <state width="1323" height="179" key="GridCell.Tab.1.right" timestamp="1584288253491">
+    <state width="1323" height="179" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1584289604464" />
+    <state width="1323" height="179" key="GridCell.Tab.1.right" timestamp="1584289604464">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1584288253491" />
+    <state width="1323" height="179" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1584289604464" />
     <state x="163" y="0" key="SettingsEditor" timestamp="1584288035008">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
